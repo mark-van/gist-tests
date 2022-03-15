@@ -1,9 +1,11 @@
 # Gist Test Assignment
 
 ### How to run test suite
-- Navigate to root directeory
-- Command: npm install 
-- Command: node gist.js
+1. Navigate to root directeory
+2. Create a .env file and add the following line
+    - GITHUB_AUTH_TOKEN=\<insert your token here>
+2. Command: npm install 
+3. Command: node gist.js
 
 ### Justification of Test Cases:
 
